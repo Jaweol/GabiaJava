@@ -1,9 +1,0 @@
-package chapter07;
-
-public class Guest {
-
-	// 멤버변수
-	private String name;
-	private String gender;
-
-}

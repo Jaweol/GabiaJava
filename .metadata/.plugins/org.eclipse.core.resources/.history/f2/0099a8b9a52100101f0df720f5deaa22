@@ -1,7 +1,0 @@
-package chapter13;
-
-public class GeneralContainer {
-
-	private D[] items;
-	private int count;
-}

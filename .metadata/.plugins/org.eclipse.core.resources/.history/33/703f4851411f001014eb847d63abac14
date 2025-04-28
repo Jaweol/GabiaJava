@@ -1,9 +1,0 @@
-package chapter08;
-
-public class Bus {
-
-	private int busNum = 1004;
-	
-	
-
-}

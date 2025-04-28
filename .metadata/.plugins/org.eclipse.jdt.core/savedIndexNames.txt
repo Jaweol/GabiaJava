@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+/Users/claire_jwk/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-3792395280.index
-878644858.index
-1865797976.index
-3468314333.index

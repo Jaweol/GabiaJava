@@ -1,9 +1,0 @@
-package chapter06;
-
-public class Bus {
-
-	int busNumber;
-	int passengerCount;
-	int money;
-
-}
