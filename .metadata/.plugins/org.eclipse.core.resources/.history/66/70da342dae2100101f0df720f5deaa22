@@ -1,0 +1,25 @@
+package chapter13;
+
+public class GericValueMain {
+
+	public static void main(String[] args) {
+
+
+		GericValue<String> v1=new GericValue<String>();
+		v1.setValue("100");
+		System.out.println(v1.getValue());
+		
+		GericValue<Character> v2=new GericValue<Character>();
+		v2.setValue('A');
+		System.out.println(v2.getValue());
+		
+		GericValue<Integer> v3=new GericValue<Integer>();
+		v3.setValue(100);
+		System.out.println(v3.getValue());
+		
+		GericValue<Double> v4=new GericValue<Double>();
+		v4.setValue(100.1);
+		System.out.println(v4.getValue());
+	}
+
+}

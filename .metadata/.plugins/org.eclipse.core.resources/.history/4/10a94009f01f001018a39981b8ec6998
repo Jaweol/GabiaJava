@@ -1,0 +1,6 @@
+package chapter10.Interface;
+
+public class SmartTelevision implements Remote,Searchable{
+
+	
+}

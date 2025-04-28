@@ -1,0 +1,14 @@
+package chapter08;
+
+public class Manager {
+
+	String department;
+	
+	
+	//생성자 
+	
+	
+	//work
+	
+	
+}

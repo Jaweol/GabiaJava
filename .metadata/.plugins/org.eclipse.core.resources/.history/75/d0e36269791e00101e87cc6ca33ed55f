@@ -1,0 +1,19 @@
+package chapter07;
+
+import java.util.Scanner;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+
+		// studentLee 이수정으로 설정 후 serialNum와 studentName 출력
+
+		Student_03 student = new Student_03();
+
+		Scanner scan = new Scanner(System.in);
+
+		student.studentName = scan.nextLine();
+
+	}
+
+}

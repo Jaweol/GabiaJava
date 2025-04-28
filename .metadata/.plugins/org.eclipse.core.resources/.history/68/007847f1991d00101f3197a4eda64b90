@@ -1,0 +1,11 @@
+package chapter06;
+
+public class Test {
+
+	String country = "Aus";
+	String city = "Melbourne";
+	String town = "south yarra";
+	int housemates = 4;
+	int room;
+
+}

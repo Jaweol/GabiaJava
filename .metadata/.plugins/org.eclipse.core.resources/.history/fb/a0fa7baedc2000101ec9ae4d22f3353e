@@ -1,0 +1,20 @@
+package chapter12.string;
+
+public class ToStringMain2 {
+
+	class Book {
+
+		String title;
+		String author;
+		
+		public Book
+
+	}// Book
+
+	public static void main(String[] args) {
+		
+		Book book=new Book("JAVA", "SODESK");
+
+	}
+
+}

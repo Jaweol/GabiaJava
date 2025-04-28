@@ -1,0 +1,15 @@
+package chapter12.wrapper;
+
+public class WrapperMain {
+
+	public static void main(String[] args) {
+		
+
+		String str1="";
+		String str2="";
+		char ch=65;
+		double num1, num2;
+
+	}
+
+}

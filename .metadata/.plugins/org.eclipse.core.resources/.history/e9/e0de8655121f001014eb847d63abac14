@@ -1,0 +1,24 @@
+package chapter06;
+
+public class TestMain {
+
+	public static void main(String[] args) {
+
+		Test person1 = new Test();
+		person1.name = "김자월";
+		person1.height = 163f;
+		person1.weight = 57f;
+
+		System.out.println(person1.name + person1.height + person1.weight);
+		System.out.println("--------------");
+
+		Test person2 = new Test();
+		person2.name = "김자월";
+		person2.height = 163f;
+		person2.weight = 57f;
+
+		System.out.println(" " + person2.name + " " + person2.height + " " + person2.weight);
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package practice01;
+
+public class Test3 {
+
+	public static void scope() {
+		int a = 10;
+		if (a < 20) {
+			int d = 40;
+			System.out.println(d);
+		}
+
+	}
+
+	public static void main(String[] args) {
+		scope();
+
+	}
+
+}

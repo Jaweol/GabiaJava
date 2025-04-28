@@ -1,0 +1,24 @@
+package practice01;
+
+public class Test1 {
+
+	public static int[] arrayname(String[] strlist) {
+		int[] total = new int[strlist.length];
+
+		for (int i = 0; i < strlist.length; i++) {
+			total[i] = strlist[i].length();
+		}
+		return total;
+
+	}
+
+	public static void main(String[] args) {
+
+		String[] strlist = { "we", "are", "learning", "Coding" };
+		int[] result = arrayname(strlist);
+
+		for (int i = 0; i < strlist.length; i++) {
+			System.out.println(strlist[i] + result[i]);
+		}
+	}
+}

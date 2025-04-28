@@ -1,0 +1,20 @@
+package chapter06;
+
+public class Test {
+
+	public static final int STUDENT_ID = 1000;
+	public String studentName;
+	int grade;
+	String address;
+
+	// 기본 생성자
+	public Test() {
+	}
+
+	public Test(String studentName, String address) {
+		super();
+		this.studentName = studentName;
+		this.address = address;
+	}
+
+}

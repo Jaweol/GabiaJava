@@ -1,0 +1,11 @@
+package chapter13;
+
+public class GeneralContainer {
+
+	private D[] items; // int[i]
+	private int count;
+
+	public GeneralContainer(int size) {
+		new object[];
+	}
+}

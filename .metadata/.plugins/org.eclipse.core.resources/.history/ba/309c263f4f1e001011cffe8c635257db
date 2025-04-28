@@ -1,0 +1,13 @@
+package chapter06;
+
+public class TakeTrans {
+
+	public static void main(String[] args) {
+
+		StdInfo studentJames = new StdInfo();
+
+		StdInfo studentTom = new StdInfo();
+
+	}
+
+}

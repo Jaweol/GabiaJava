@@ -1,0 +1,8 @@
+package chapter08;
+
+public class Strawberry {
+
+	
+	private String color;
+	private int price;
+}

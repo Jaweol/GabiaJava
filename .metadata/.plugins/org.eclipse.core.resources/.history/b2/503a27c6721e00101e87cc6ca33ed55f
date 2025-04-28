@@ -1,0 +1,12 @@
+package chapter07;
+
+public class FinalTest_01 {
+
+	// 멤버변수
+	private int MAX = 3;
+
+	public static void main(String[] args) {
+
+	}
+
+}

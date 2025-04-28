@@ -1,0 +1,15 @@
+package chapter08;
+
+public class Taxi {
+
+	private int taxiNum = 1005;
+
+	@Override
+	public void run() {
+		
+	
+	}
+
+	
+	
+}

@@ -1,0 +1,10 @@
+package chapter06;
+
+public class Can {
+	
+	//메메버변수 
+	private String canName;
+	private int price;
+	
+
+}

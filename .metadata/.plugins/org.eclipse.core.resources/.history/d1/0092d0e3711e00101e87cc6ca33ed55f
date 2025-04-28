@@ -1,0 +1,14 @@
+package chapter06;
+
+public class Test {
+
+	String name;
+	float height;
+	float weight;
+	
+	
+	public Test(String name) {
+		
+	}
+	
+}

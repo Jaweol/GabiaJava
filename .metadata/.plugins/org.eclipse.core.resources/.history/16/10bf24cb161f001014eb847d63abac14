@@ -1,0 +1,13 @@
+package chapter08;
+
+public class Paprika extends Vegetable_02 {
+
+	private String color;
+	private int price;
+	private String name;
+
+	public void Disp1() {
+		System.out.println("----------------");
+	}
+
+}

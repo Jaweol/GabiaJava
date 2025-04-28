@@ -1,0 +1,19 @@
+package chapter09;
+
+import java.lang.reflect.Method;
+
+public class CarMain {
+
+	public static void main(String[] args) {
+		mehod(new ManualCar());
+		mehod(new AICar());
+		
+
+	}
+	public static void mehod(Car car) {
+		car.drive();
+		car.stop();
+		
+	}
+
+}

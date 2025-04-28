@@ -1,0 +1,17 @@
+package practice01;
+
+public class Test3 {
+
+	public static void printScores() {
+		// 배열 초기화
+	int[] scores= {90,80,70,100};
+	for(int score:scores) {
+		System.out.println(score+5);
+	}
+	}
+	// main 메서드
+	public static void main(String[] args) {
+		printScores();
+	}
+	}
+

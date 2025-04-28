@@ -1,0 +1,20 @@
+package chapter13;
+
+public class GeneralContainer {
+
+	private T[] items; // int[i]
+	private int count;
+
+	public GeneralContainer(int size) {
+		items = (T[]) new object[size];
+		count = 0;
+	}
+
+	public void addItem(T item) {
+		if (count < items.length) {
+			items[count++] = item;
+		} else {
+			System.out.println("Container is full");
+		}
+	}
+}

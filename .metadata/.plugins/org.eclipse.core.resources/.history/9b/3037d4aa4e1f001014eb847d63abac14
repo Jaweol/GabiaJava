@@ -1,0 +1,17 @@
+package chapter09;
+
+public class Notebook extends Computer {
+
+	@Override
+	public void display() {
+		System.out.println("Notebook Display()");
+
+	}
+
+	@Override
+	public void typing() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

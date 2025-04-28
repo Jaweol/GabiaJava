@@ -1,0 +1,17 @@
+package chapter09;
+
+public class CarMain {
+
+	public static void main(String[] args) {
+		mehod(new ManualCar());
+		mehod(new AICar());
+
+	}
+
+	public static void mehod(Car car) {
+		car.drive();
+		car.stop();
+
+	}
+
+}

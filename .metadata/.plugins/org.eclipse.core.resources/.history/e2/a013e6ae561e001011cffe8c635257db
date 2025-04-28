@@ -1,0 +1,10 @@
+package chapter06;
+
+public class Vending {
+	
+	private Can[] can=new Can[5];
+	private int money;
+	
+	
+
+}

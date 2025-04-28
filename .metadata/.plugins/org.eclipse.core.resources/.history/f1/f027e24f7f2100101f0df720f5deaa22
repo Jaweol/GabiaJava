@@ -1,0 +1,11 @@
+package chapter12.clone;
+
+public class StringBufferMain {
+
+	public static void main(String[] args) {
+
+		StringBuffer buffer = new StringBuffer("Nice Day");
+		System.out.println(buf.toString);
+	}
+
+}

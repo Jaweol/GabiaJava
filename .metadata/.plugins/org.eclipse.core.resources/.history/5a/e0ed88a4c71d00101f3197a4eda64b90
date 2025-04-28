@@ -1,0 +1,9 @@
+package chapter06;
+
+public class Test {
+
+	public int jan;
+	public int feb;
+	public int mar;
+
+}

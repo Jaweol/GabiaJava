@@ -1,0 +1,15 @@
+package chapter12.string;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+
+		Student studentLee = new Student(100, "이상우");
+		Student studentLee2 = studentLee;
+
+		System.out.println("-----동일한 주고의 두 인스턴스 비교--------");
+		if(studentLee==studentLee2);
+
+	}
+
+}

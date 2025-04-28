@@ -1,0 +1,16 @@
+package chapter12.string;
+
+public class ToStringMain2 {
+
+	class Book {
+
+		String title;
+		String author;
+
+	}// Book
+
+	public static void main(String[] args) {
+
+	}
+
+}

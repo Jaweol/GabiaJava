@@ -1,0 +1,17 @@
+package chapter07;
+
+import java.util.Scanner;
+
+public class Guide_04 {
+
+	static String pointl
+	Guest[] guest;
+	Scanner scan;
+	
+	public Guide_04(int n) {
+		
+	}
+	
+	
+	
+}

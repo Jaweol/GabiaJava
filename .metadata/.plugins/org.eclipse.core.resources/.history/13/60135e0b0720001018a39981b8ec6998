@@ -1,0 +1,17 @@
+package chapter10.MultiInterface;
+
+import java.util.Scanner;
+
+public class SchedulerMain {
+
+	public static void main(String[] args) {
+
+		Scanner scan = new Scanner(System.in);
+
+		while (true) {
+
+		} // while
+
+	}// main
+
+}// class

@@ -1,0 +1,13 @@
+package chapter09;
+
+public class HttpServlet_Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public static void method() {
+		
+	}
+}

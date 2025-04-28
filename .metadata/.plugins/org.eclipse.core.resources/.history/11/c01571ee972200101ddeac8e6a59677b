@@ -1,0 +1,21 @@
+package practice01;
+
+public class Test3 {
+	  // [상자 메서드 : printScores]
+    public static void printScores() {
+        // [점수 저장 상자(배열)]
+        int[] scores = {90, 80, 70, 100};
+
+        // [점수 꺼내서 반복하는 일꾼 (for-each 반복문)]
+        for (int score : scores) {
+            // [일 처리] : 꺼낸 점수 출력
+            System.out.println(score);
+        }
+    }
+
+    // [사장 메서드 : main]
+    public static void main(String[] args) {
+        // [상자 메서드 호출] : printScores() 실행 (상자 열어!)
+        printScores();
+    }
+}

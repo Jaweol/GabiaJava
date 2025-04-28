@@ -1,0 +1,20 @@
+package chapter14;
+
+import java.util.ArrayList;
+
+public class PersonManager {
+
+	public void personMgr() {
+		int select;
+		Person p;
+
+		// Person객체들만 저장할 ArrayList생성
+		ArrayList<Person> personarr = new ArrayList<Person>();
+
+		while (true) {
+			System.out.print("(1)회워가입, (2)정보삭제, (3)정보검색, (4)종료:");
+
+		} // while
+
+	}// 메서드
+}// 클래스

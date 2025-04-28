@@ -1,0 +1,19 @@
+package chapter09;
+
+public class AnimalMain {
+
+	public static void main(String[] args) {
+
+	}
+
+	public static void animalSound(Animal animal) {
+		Animal a = new Dog();
+		Animal a2 = new Dog();
+
+		a.sound();
+		a2.sound();
+		
+		
+
+	}
+}

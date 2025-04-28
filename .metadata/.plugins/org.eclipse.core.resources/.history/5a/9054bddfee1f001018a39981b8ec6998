@@ -1,0 +1,11 @@
+package chapter10.Interface;
+
+public class InterTest01 {
+
+	// public static 생략
+	final int A = 100;
+
+	// Method
+	int getA();
+
+}
